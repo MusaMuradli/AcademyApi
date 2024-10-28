@@ -1,0 +1,22 @@
+[
+  {
+    "ContainingType": "Academy.API.Controllers.BooksController",
+    "Method": "GetAll",
+    "RelativePath": "api/v1/Books",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TestApi.Controllers.StudentsController",
+    "Method": "GetAll",
+    "RelativePath": "api/v2/Students",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

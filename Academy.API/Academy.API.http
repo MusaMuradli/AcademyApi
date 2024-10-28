@@ -1,0 +1,7 @@
+@Academy.API_HostAddress = https://localhost:7110
+###
+GET https://localhost:7110/Students
+Accept: application/json
+
+# Disable SSL verification (for development only)
+> { "http.sslVerify": false }

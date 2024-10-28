@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Owner\\Desktop\\Academy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BD996CA8-D609-4B50-BE7E-39A6381D7A44}|Academy.API\\Academy.API.csproj|c:\\users\\owner\\desktop\\academy\\academy.api\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD996CA8-D609-4B50-BE7E-39A6381D7A44}|Academy.API\\Academy.API.csproj|solutionrelative:academy.api\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD996CA8-D609-4B50-BE7E-39A6381D7A44}|Academy.API\\Academy.API.csproj|c:\\users\\owner\\desktop\\academy\\academy.api\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD996CA8-D609-4B50-BE7E-39A6381D7A44}|Academy.API\\Academy.API.csproj|solutionrelative:academy.api\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD996CA8-D609-4B50-BE7E-39A6381D7A44}|Academy.API\\Academy.API.csproj|c:\\users\\owner\\desktop\\academy\\academy.api\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD996CA8-D609-4B50-BE7E-39A6381D7A44}|Academy.API\\Academy.API.csproj|solutionrelative:academy.api\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD996CA8-D609-4B50-BE7E-39A6381D7A44}|Academy.API\\Academy.API.csproj|c:\\users\\owner\\desktop\\academy\\academy.api\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD996CA8-D609-4B50-BE7E-39A6381D7A44}|Academy.API\\Academy.API.csproj|solutionrelative:academy.api\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD996CA8-D609-4B50-BE7E-39A6381D7A44}|Academy.API\\Academy.API.csproj|c:\\users\\owner\\desktop\\academy\\academy.api\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD996CA8-D609-4B50-BE7E-39A6381D7A44}|Academy.API\\Academy.API.csproj|solutionrelative:academy.api\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD996CA8-D609-4B50-BE7E-39A6381D7A44}|Academy.API\\Academy.API.csproj|c:\\users\\owner\\desktop\\academy\\academy.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD996CA8-D609-4B50-BE7E-39A6381D7A44}|Academy.API\\Academy.API.csproj|solutionrelative:academy.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "C:\\Users\\Owner\\Desktop\\Academy\\Academy.API\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "Academy.API\\Controllers\\StudentsController.cs",
+              "ToolTip": "C:\\Users\\Owner\\Desktop\\Academy\\Academy.API\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "Academy.API\\Controllers\\StudentsController.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAmwBIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T14:41:34.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\Owner\\Desktop\\Academy\\Academy.API\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "Academy.API\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\Owner\\Desktop\\Academy\\Academy.API\\Models\\Book.cs",
+              "RelativeToolTip": "Academy.API\\Models\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T14:39:03.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Owner\\Desktop\\Academy\\Academy.API\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Academy.API\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\Owner\\Desktop\\Academy\\Academy.API\\Models\\Student.cs",
+              "RelativeToolTip": "Academy.API\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T14:38:50.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Data.cs",
+              "DocumentMoniker": "C:\\Users\\Owner\\Desktop\\Academy\\Academy.API\\Data.cs",
+              "RelativeDocumentMoniker": "Academy.API\\Data.cs",
+              "ToolTip": "C:\\Users\\Owner\\Desktop\\Academy\\Academy.API\\Data.cs",
+              "RelativeToolTip": "Academy.API\\Data.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwC8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T14:37:50.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\Users\\Owner\\Desktop\\Academy\\Academy.API\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "Academy.API\\Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Users\\Owner\\Desktop\\Academy\\Academy.API\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "Academy.API\\Controllers\\BooksController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T14:36:29.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Owner\\Desktop\\Academy\\Academy.API\\Program.cs",
+              "RelativeDocumentMoniker": "Academy.API\\Program.cs",
+              "ToolTip": "C:\\Users\\Owner\\Desktop\\Academy\\Academy.API\\Program.cs",
+              "RelativeToolTip": "Academy.API\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAqwDAAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T14:32:04.434Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
